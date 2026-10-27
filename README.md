@@ -3,9 +3,9 @@
 Projeto desenvolvido para a disciplina de **Análise Exploratória de Dados e Visualização** (2026.2) da Escola de Matemática Aplicada da Fundação Getulio Vargas (**FGV EMAp**), ministrada pelo Prof. João Rulff.
 
 ## Integrantes do Grupo
-* Artur Lacerda Pugoni [(github.com/Pugoni)]
-* Guilherme da Cunha Fonseca [(github.com/14guifonseca)]
-* Sarah Felix Stocler [(github.com/r3lc0ts)]
+* Artur Lacerda Pugoni [(github.com/Pugoni)](github.com/Pugoni)
+* Guilherme da Cunha Fonseca [(github.com/14guifonseca)](github.com/14guifonseca)
+* Sarah Felix Stocler [(github.com/r3lc0ts)](github.com/r3lc0ts)
 
 ---
 
