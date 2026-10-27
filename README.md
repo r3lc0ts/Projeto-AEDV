@@ -3,9 +3,9 @@
 Projeto desenvolvido para a disciplina de **Análise Exploratória de Dados e Visualização** (2026.2) da Escola de Matemática Aplicada da Fundação Getulio Vargas (**FGV EMAp**), ministrada pelo Prof. João Rulff.
 
 ## Integrantes do Grupo
-* Artur Lacerda Pugoni (github.com/Pugoni)
-* Guilherme da Cunha Fonseca (github.com/14guifonseca)
-* Sarah Felix Stocler (github.com/r3lc0tS)
+* Artur Lacerda Pugoni [(github.com/Pugoni)]
+* Guilherme da Cunha Fonseca [(github.com/14guifonseca)]
+* Sarah Felix Stocler [(github.com/r3lc0ts)]
 
 ---
 
@@ -15,7 +15,7 @@ Os dados abrangem o período de **janeiro de 1989 a agosto de 2026** e foram col
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 ├── data/
@@ -45,7 +45,7 @@ conda activate projeto_turismo
 * **Pelo Visual Studio Code:** Abrir a pasta do projeto no VS Code, abra o arquivo `notebook/notebook_turismo.ipynb` e, no canto superior direito (*Select Kernel*), selecionar o ambiente **`projeto_turismo (Python 3.12)`**.
 * **Pelo Jupyter Lab (Navegador):** Com o ambiente `projeto_turismo` ativo no Anaconda Prompt, digite `jupyter lab` e abra o arquivo `notebook/notebook_turismo.ipynb`.
 
-> **💡 Solução de problemas no Windows (VS Code):** Caso ocorra o erro `"Failed to start the Kernel"` ao tentar rodar a primeira célula no Windows, executar o comando abaixo no seu Anaconda Prompt (com o ambiente `projeto_turismo` ativo) para reinstalar o comunicador do kernel e, em seguida, recarregar a janela do VS Code:
+> ** Solução de problemas no Windows (VS Code):** Caso ocorra o erro `"Failed to start the Kernel"` ao tentar rodar a primeira célula no Windows, executar o comando abaixo no seu Anaconda Prompt (com o ambiente `projeto_turismo` ativo) para reinstalar o comunicador do kernel e, em seguida, recarregar a janela do VS Code:
 > ```bash
 > pip uninstall pyzmq ipykernel tornado -y && pip install pyzmq ipykernel tornado
 > ```
